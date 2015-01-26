@@ -1,0 +1,15 @@
+h1 { color: orange; }
+
+.red { color: red; }
+
+.blue { color: blue;}
+
+.purple { color: purple; }
+
+.steelblue { color: steelblue; 
+}
+
+.supergreen,
+.superyellow {
+  color: lime;
+}
